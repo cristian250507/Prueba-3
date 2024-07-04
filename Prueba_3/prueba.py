@@ -1,6 +1,5 @@
 import funciones as f   
 jugadores = []
-f.mostar(jugadores)
 while True:
     print("1.- Registrar puntajes Torneo")
     print("2.- Listar todos los puntajes" )   
